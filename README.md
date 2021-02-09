@@ -1,6 +1,6 @@
 # LiveEctoSandbox
 
-**TODO: Add description**
+Wrapper for `Phoenix.Ecto.SQL.Sandbox` of `phoenix_ecto` to support liveview powered pages.
 
 ## Installation
 
